@@ -10,7 +10,8 @@ import VideoDetail from './components/video_detail';
 //Api Key for Youtube
 const API_KEY = 'AIzaSyDJSAoBGXosP7cCb7-lAE74iH5yDUxP6Bc';
 
-// create a new component const App = () => {     return (         <div>
+// create a new component
+// const App = () => {     return (         <div>
 //     <SearchBar />         </div>     ); }
 class App extends Component {
   constructor(props) {
